@@ -1,0 +1,47 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title=""tvg-logo="",РЕН ТВ
+https://user45796.clients-cdnnow.ru/hls-livec1/streams/vitrina-hls/rentv_msk_blackout/tracks-v5a1/mono.m3u8?token=v2.TIcbTzBZcLZSdFtZYAJ8oMalWxktWXlqNNX8XSTZODo.oKtrnICjAXxzpx3AiLSsdTnHw19xgLstVC-CukKqP2U.1723374735.b581fca30ecfafb385bd0fdcb6297df7
+#EXTINF:-1 group-title=""tvg-logo="",Охотник и рыболов
+https://salam-mskth-12.rutube.ru/dive/river-5-515.rutube.ru/DkIcT9bTc_yG7cRoVcvOyA/stream/genetta-513.ost.rutube.ru/UWbV8VzJWIWe6SYI7ipnQA/1723374629/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",ТВ-3
+https://salam-mskth-12.rutube.ru/dive/river-5-513.rutube.ru/x8V2RH7DsDWuZGNRKzJo8A/stream/genetta-322.m9.rutube.ru/ag9nFfCktwjcX4_V8Q8D1Q/1723374449/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",Пятница
+https://salam-mskth-12.rutube.ru/dive/river-5-511.rutube.ru/78ekbt5iyVskMiqYvHlkLQ/stream/genetta-316.m9.rutube.ru/fKY7-ApP_Np5TOxVYPgAQw/1723374379/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",ТНТ
+https://salam-mskth-12.rutube.ru/dive/river-3-303.rutube.ru/WdoS7E_rGg8s_7nCT4VdoQ/stream/genetta-324.m9.rutube.ru/D_21wlOhSXUs8ati6xq3qQ/1723374325/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",РБК
+https://salam-mskth-11.rutube.ru/dive/river-5-515.rutube.ru/tppevcV0_OnbsOH6xWkD8Q/stream/genetta-301.m9.rutube.ru/WlEjLW2yIpgW8LeQLXG09g/1723374616/88f6485ee28d56daf13302ac6fe3d931/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",СПАС
+https://salam-mskth-11.rutube.ru/dive/river-5-514.rutube.ru/MpZJt4GE406bpgrDoBIruw/stream/genetta-528.ost.rutube.ru/3Ihpm3lreg0dcImTzzz9Cg/1723374595/2bbfa9ebf9d79ade480d7281fcef1008/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",Звезда
+https://salam-mskth-11.rutube.ru/dive/river-3-318.rutube.ru/rTZ0X0aVWRVg66OdQ7iwIQ/stream/genetta-320.m9.rutube.ru/3QsZSAVi1mfwavqkTI97xA/1723374398/5ab908fccfac5bb43ef2b1e4182256b0/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",БелРос ТВ
+https://salam-msksd-8.rutube.ru/dive/river-5-513.rutube.ru/BX3y9Yc69-pDzbbQU7BPxg/stream/genetta-318.m9.rutube.ru/cFhz_7syMTOUBHbQDrDbhA/1723374672/46c03b7f1a7255326900f4a60a9b44e0/576p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",ОТР
+https://salam-mskost-1050.rutube.ru/dive/river-5-515.rutube.ru/UpfPOUtzTc3UClVGoe5Sjw/stream/genetta-311.m9.rutube.ru/ACjcweDNYL172wEiIPKN5Q/1723374564/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",Матч ТВ
+https://salam-mskost-1050.rutube.ru/dive/river-3-320.rutube.ru/CMG4Qxk0TLEFD3RjhAq18A/stream/genetta-311.m9.rutube.ru/sni0lfaFymbnUKLRptcldA/1723374461/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",Первый канал
+https://salam-mskm9-9.rutube.ru/dive/river-3-318.rutube.ru/AGYDX1PWKce81jZfXroIbg/stream/genetta-530.ost.rutube.ru/0j85U0J-mZr83ryJTzsTHQ/1723374175/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",Солнце
+https://salam-mskm9-4.rutube.ru/dive/river-5-513.rutube.ru/2E9Eu8Yxx30CQoHERG_HsA/stream/genetta-326.m9.rutube.ru/EHX2_a66qhTw7S09bkExYA/1723374530/2dba20a8405e57935827cb5721c2b759/576p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",2х2
+https://salam-mskm9-4.rutube.ru/dive/river-5-511.rutube.ru/pgvvVWOBbxojiiNldUj6dQ/stream/genetta-328.m9.rutube.ru/9r-XBbIJB4UxxP21DmzhgA/1723374549/392b4686b770bae2da6bf5ac4574add5/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",ТНТ MUSIC
+https://salam-mskm9-37.rutube.ru/dive/river-3-314.rutube.ru/caBQ-pixP565O4DNF23f8w/stream/genetta-530.ost.rutube.ru/gcBD0c7Zo5CvaK2EETAyUw/1723374581/f5ba23a0149f409c18168231844e0a3b/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",МУЗ-ТВ
+https://salam-mskm9-36.rutube.ru/dive/river-5-516.rutube.ru/bVDBo-6m1a32-IhCGCkidg/stream/musang-701.brz.rutube.ru/9umVpNmWBgSkeu_Ydro5zA/1723374491/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",Суббота
+https://salam-mskm9-36.rutube.ru/dive/river-5-515.rutube.ru/Z5qguilftbF3zLflu33Jhw/stream/genetta-304.m9.rutube.ru/kbBQJUK5Qra4jBjh7mi3fQ/1723374710/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",ТНТ4
+https://salam-mskm9-36.rutube.ru/dive/river-3-311.rutube.ru/uKVY9_9kpY00pK4NFx3D7w/stream/genetta-314.m9.rutube.ru/qZaxSQGIPRk5DZ693SouTg/1723374438/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",Ю-ТВ
+https://salam-mskm9-17.rutube.ru/dive/river-5-513.rutube.ru/MjIdfMwWj3mmqmHG5LVNug/stream/genetta-319.m9.rutube.ru/RjzUViUD-EkcASdviRbtyA/1723374507/5c9327074e25ca86f3111d4085cbbb65/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",НТВ
+https://salam-mskm9-1048.rutube.ru/dive/river-3-312.rutube.ru/oBJNW9ylErMpwLHDJRYbig/stream/genetta-512.ost.rutube.ru/wrSoDx-WGBRRvYl7lKC4KA/1723374198/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",МИР
+https://salam-mskm9-10.rutube.ru/dive/river-5-512.rutube.ru/D7QLSXU40fodbYPKvIyDqQ/stream/genetta-317.m9.rutube.ru/Y8ZkUXRp0uLiK4imM88iLA/1723374478/afef67d151b5a607dee1ef0aa299a52c/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",RTД 
+https://salam-mskm9-10.rutube.ru/dive/river-3-311.rutube.ru/WDnWSgZuATg_Y3-IfNaikg/stream/genetta-313.m9.rutube.ru/VM_q2nPACC6W_EctEnBM-Q/1723374646/d1eb5756f77825451cc9d129bf5607b0/1080p_stream.m3u8
+#EXTINF:-1 group-title=""tvg-logo="",СТС
+https://mobdrm.mediavitrina.ru/hls-livef1/ctc/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fctc-live-vitrina.cdn.gblnet.ru&token=v2.qkDzlCrkyrUjim68Dm3sCPfmu2pX5RiIPVUp9URpsLU.vXkwypZHjw5mrOXd9DIoMULcGJG5tFwfkscL_4MQWO8.1723374690.46ec9676afd02bfba702e65b0fb8238a
